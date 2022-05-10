@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JerfiAliUcar
 - 👀 I’m interested in Computer Science and Software Engineering
 - 🌱 I’m currently learning ASP.Net-Core MVC
-- 📫 How to reach me ...
+- 📫 jerfiucar@icloud.com
 
 <!---
 JerfiAliUcar/JerfiAliUcar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
