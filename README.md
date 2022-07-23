@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JerfiAliUcar
 - 👀 I’m interested in Computer Science and Software Engineering
-- 🌱 I’m currently learning ASP.Net-Core MVC
+- 🌱 I’m currently learning Flutter
+- 💻 I have learned ASP .Net MVC at a basic level.
 - 📫 jerfiucar@icloud.com
 
 <!---
