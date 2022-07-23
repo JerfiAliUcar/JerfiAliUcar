@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JerfiAliUcar?tab=repositories](https://github.com/JerfiAliUcar?tab=repositories)
 
+- 💬 I learned **Asp.Net MVC at a basic level**
+
 - 📫 How to reach me **jerfiucar@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
