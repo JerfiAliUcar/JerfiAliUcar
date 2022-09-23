@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jerfiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfiucar" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.Net Core MVC**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JerfiAliUcar?tab=repositories">Here</a>
 
