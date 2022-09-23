@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jerfiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfiucar" /></a> </p>
 
-- 🌱 You can reach my personal website at <a href="www.jerfialiucar.com.tr">HERE</a>
+- 🌱 You can reach my personal website at www.jerfialiucar.com.tr
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JerfiAliUcar?tab=repositories">Here</a>
 
