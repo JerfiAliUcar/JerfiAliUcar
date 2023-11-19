@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Java**
 
+- 🧑‍💻 Website [www.jerfialiucar.com.tr](www.jerfialiucar.com.tr)
+
+- 💬 I have previously learned at an entry/intermediate level in **C,C# and ASP.NET MVC.**
+
 - 📫 How to reach me **jerfiucar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
