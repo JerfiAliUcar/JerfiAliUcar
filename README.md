@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jerfi Ali Uçar</h1>
 <h3 align="center">A passionate software learner from Turkey</h3>
 
+<p align="left"> <a href="https://twitter.com/jerfiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfiucar" /></a> </p>
+
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **jerfiucar@gmail.com**
@@ -17,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerfialiucar&show_icons=true&locale=en&layout=compact" alt="jerfialiucar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerfialiucar&show_icons=true&locale=en" alt="jerfialiucar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerfialiucar&" alt="jerfialiucar" /></p>
