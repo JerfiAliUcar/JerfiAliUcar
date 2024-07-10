@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jerfiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfiucar" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **.Net Core**
 
 - 🧑‍💻 Website [www.jerfialiucar.com.tr](www.jerfialiucar.com.tr)
 
