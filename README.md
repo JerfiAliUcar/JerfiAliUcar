@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/jerfiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfiucar" /></a> </p>
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 🧑‍💻 Website [www.jerfialiucar.com.tr](www.jerfialiucar.com.tr)
 
-- 💬 I have previously learned at an entry/intermediate level in **C,C# and ASP.NET MVC.**
+- 💬 I have previously learned at an entry/intermediate level in **C,C# and .Net Core.**
 
 - 📫 How to reach me **jerfiucar@gmail.com**
 
