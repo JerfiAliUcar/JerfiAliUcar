@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerfi Ali Uçar</h1>
 <h3 align="center">A passionate software learner from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/jerfiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfiucar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jerfialiucar" target="blank"><img src="https://img.shields.io/twitter/follow/jerfiucar?logo=twitter&style=for-the-badge" alt="jerfialiucar" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jerfiucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerfiucar" height="30" width="40" /></a>
+<a href="https://twitter.com/jerfialiucar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerfialiucar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jerfi ali uçar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerfi ali uçar" height="30" width="40" /></a>
 </p>
 
